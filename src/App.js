@@ -945,7 +945,7 @@ export default function ForestiaLanding() {
               {/* Ground line */}
               <line x1="0" y1="360" x2="280" y2="360" stroke="rgba(201,168,76,0.2)" strokeWidth="1"/>
               {/* M3M Logo on building */}
-              <text x="100" y="180" fill="rgba(201,168,76,0.5)" fontFamily="serif" fontSize="28" fontWeight="300">M3M</text>
+              <text x="100" y="180" fill="rgba(201,168,76,0.5)" fontFamily="serif" fontSize="28" fontWeight="300">M3M FORESTIA WEST</text>
             </svg>
           </div>
           <div className="overview-text">
