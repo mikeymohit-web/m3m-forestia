@@ -881,7 +881,7 @@ export default function ForestiaLanding() {
 
       {/* NAV */}
       <nav className={`nav ${scrolled ? "scrolled" : ""}`}>
-        <div className="nav-logo">M3M <span>FORESTIA</span></div>
+        <div className="nav-logo">M3M <span>FORESTIA</span> WEST</div>
         <ul className="nav-links">
           <li><a href="#overview">Overview</a></li>
           <li><a href="#units">Units</a></li>
@@ -900,7 +900,7 @@ export default function ForestiaLanding() {
         <div className="hero-content">
           <div className="hero-badge">GIC · Sector 109 · Gurugram</div>
           <h1 className="hero-title">
-            M3M<br /><em>Forestia</em><br />West
+            M3M<br /><em>Forestia</em>West
           </h1>
           <p className="hero-subtitle">Where Forest Meets Luxury</p>
           <div className="hero-divider" />
